@@ -8,6 +8,5 @@ understand the core structure of an Arduino sketch.
 - Microcontroller: Elegoo Uno R3
 - Onboard Components: Built-in LED (connected to Pin 13)
 
-🎬 PROJECT DEMO VIDEO:
-(To see the code running, open the "demo.mp4" file in this folder!)
+video is in the folder
 ============================================================================ */
