@@ -11,18 +11,3 @@ understand the core structure of an Arduino sketch.
 🎬 PROJECT DEMO VIDEO:
 (To see the code running, open the "demo.mp4" file in this folder!)
 ============================================================================ */
-
-CODE
-
-void setup() {
-  // Tell the Arduino that Pin 13 is an output path for power
-  pinMode(13, OUTPUT);
-}
-
-void loop() {
-  digitalWrite(13, HIGH); // 1. Turn the light ON
-  delay(1000);           // 2. Wait for 1 second (1000 milliseconds)
-
-  digitalWrite(13, LOW);  // 3. Turn the light OFF
-  delay(1000);           // 4. Wait for 1 second before looping back
-}
