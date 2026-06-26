@@ -1,0 +1,21 @@
+Project 02: External Blinking LED
+
+Now that I understand the basics of the Arduino, I took the next step: building a physical circuit! For this project, I learned how to use a breadboard, connect jumper wires, and use a resistor to safely power an external LED without burning it out.
+
+🛠 Hardware Used
+
+Microcontroller: Elegoo Uno R3
+
+Breadboard: Half-size solderless breadboard
+
+Components: * 1x External LED (Red)
+
+1x 220-ohm Resistor (to protect the LED)
+
+Jumper wires
+
+Pin Connection: Digital Pin 9
+
+🎬 Project Demo Video
+
+To see the external LED blinking in action, open the demo.mp4 file in this folder!
